@@ -1,0 +1,30 @@
+{
+  "id": "3272236",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "147464",
+      "name": "游戏_填充",
+      "font_class": "youxitianchong",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "3640174",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "7568855",
+      "name": "24gf-envelopeCheck",
+      "font_class": "24gf-envelopeCheck",
+      "unicode": "e960",
+      "unicode_decimal": 59744
+    }
+  ]
+}
